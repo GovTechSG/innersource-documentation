@@ -1,7 +1,7 @@
 # What is Innersource?
 
 InnerSource is applying open source software development practices to
-private code inside of Government.
+private code inside of organisations.
 
 The community of software developers across the Whole of Government
 (WoG) face common challenges in addressing security and policy
@@ -12,13 +12,13 @@ address these challenges by providing an ecosystem of software modules,
 templates and example code that WoG developers can reuse or adapt to
 their own projects.
 
-Governments and Organisations worldwide are incorporating open source
+Governments and organisations worldwide are incorporating open source
 methodologies into the way they build and ship their own software.
 Adopting this modern approach to software development for internal
 projects can be transformative — enabling collaboration and fostering
 the creation of high quality code behind the firewall.
 
-**According to innersourcecommons.org**
+**According to innersourcecommons.org:**
 
 > “InnerSource takes the lessons learned from developing open source
 > software and applies them to the way companies develop software
@@ -62,7 +62,7 @@ greater collaboration, reuse and sharing across Government.
 Other Govtech products are following with the formalisation of
 Innersource practices and the adoption of SHIP-HATS.
 
-### InnerSource Project Checklist
+## InnerSource Project Checklist
 
 These items help developers using the SHIP-HATS code
 repository platform to find code repositories for their project, clone
@@ -81,13 +81,15 @@ InnerSource code repository.
 For more details visit
 [How to Innersource a Project](how-to-innersource.md)
 
-### How to find InnerSource Projects
+## How to find InnerSource Projects
 
 To find out what InnerSource projects are available, check out the
 `InnerSource` label in SHIP-HATS where you can browse, search, and
 navigate to each of the InnerSource tagged projects.
 
-### InnerSource Working Group
+## InnerSource Working Group
 
 Govtech has formed a Working Group around InnerSource as a place for
 members to collaborate and discuss how InnerSource works in Government.
+
+Please reach out via email or Telegram if you are interested to join.
