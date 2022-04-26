@@ -146,7 +146,7 @@ high degree of commitment from all involved parties.
 
 ## FAQ
 
-### What if our team doesn't have time to review all the incoming Merge Requests?
+### What if our team doesn't have time to review all the incoming Merge Requests? <!-- {docsify-ignore} -->
 
 That's up to your team to resolve. But keep this in mind: What is faster,
 coding everything from scratch, or reviewing someone else's code?
@@ -154,7 +154,7 @@ Approaching these efforts as a collaboration — communicating your goals, plans
 save you lots of time. Discussing over 30-60 minutes only takes
 30-60 minutes. Clear contributing documentation can save even more time.
 
-### It takes time to get people up to speed with the codebase and go through a couple of Merge Request iterations to get something done. What if we don't have time right now to handle that?
+### It takes time to get people up to speed with the codebase and go through a couple of Merge Request iterations to get something done. What if we don't have time right now to handle that? <!-- {docsify-ignore} -->
 
 Similar to the previous question, check again and make sure that it will truly take longer to teach
 someone about your codebase than to do the work yourself. Also, don't make assumptions about your potential
@@ -162,7 +162,7 @@ contributors, especially if they are also following similar proceses: For all yo
 get the job done quickly. They might even be able to teach you some
 things. This approach plays out in the open source world all the time.
 
-### What if we allow a team to go forward with a Merge Request, and the end result is not to our liking?
+### What if we allow a team to go forward with a Merge Request, and the end result is not to our liking? <!-- {docsify-ignore} -->
 
 Try to work with the contributing team early to achieve something you
 can all accept. Remember, part of this is on you communicating with the
@@ -170,7 +170,7 @@ contributing team what you're hoping they'll produce (in `CONTRIBUTING.md` or on
 to get progress updates. Give them guidance, if needed as this will save
 you time, and save frustration for everyone involved.
 
-### What if someone surprises us with a Merge Request we didn't ask for and don't want?
+### What if someone surprises us with a Merge Request we didn't ask for and don't want? <!-- {docsify-ignore} -->
 
 The team is in their right to not accept it. We want people to reach out
 (via an Issue/MR/RFC/ADR/etc) to an owning team before making any bug fix
@@ -183,13 +183,13 @@ setting to work. It is recommended to outline your preferred process in
 the `CONTRIBUTING.md` document so that there are not too many surprises
 and wasted effort on both sides.
 
-### How do I know if a team will accept my proposed Merge Request?
+### How do I know if a team will accept my proposed Merge Request? <!-- {docsify-ignore} -->
 
 The easiest approach is to check the `CONTRIBUTING.md` and ask the team if
 there is anything unclear. We recommend reaching out to their project
 team via chat or a raising an Issue (with a 'question' label).
 
-### What about contracted developers who work on Innersource?
+### What about contracted developers who work on Innersource? <!-- {docsify-ignore} -->
 
 Contractor developers or augmented staff are often not motivated (or
 actively disencentivised) to not engage in InnerSource activities. Once
@@ -199,7 +199,7 @@ the outset of the project, clearly define that the code will be made
 `internal` by default or how the project will be transitioned to an
 InnerSource project.
 
-### What happens about contributors writing code and not supporting if it has bugs?
+### What happens about contributors writing code and not supporting if it has bugs? <!-- {docsify-ignore} -->
 
 When accepting contributions from outside of your own team, there is a
 natural aversion to taking responsibility for code not written by your
@@ -211,7 +211,7 @@ teams and makes it more likely that contributions get accepted.
 
 For more ideas and examples, see the [30 Day Warranty](https://patterns.innersourcecommons.org/p/30-day-warranty) pattern.
 
-### What if I need help Innersourcing my project?
+### What if I need help Innersourcing my project? <!-- {docsify-ignore} -->
 
 Get in touch with the Innersource Working Group.
 and we'll be happy to help.

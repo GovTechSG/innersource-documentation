@@ -78,8 +78,7 @@ InnerSource code repository.
  - [ ] Project licensed with GPSL (or similar Agency-specific permissive license)
  - [ ] Project establishes a team structure to encourage contributions (such as Maintainers and Trusted Committer roles)
 
-For more details visit
-[How to Innersource a Project](how-to-innersource.md)
+For more details see [How to Innersource](how-to-innersource.md).
 
 ## How to find InnerSource Projects
 
@@ -92,4 +91,4 @@ navigate to each of the InnerSource tagged projects.
 Govtech has formed a Working Group around InnerSource as a place for
 members to collaborate and discuss how InnerSource works in Government.
 
-Please reach out via email or Telegram if you are interested to join.
+Please reach out via email or Telegram if you are interested to join the community.
