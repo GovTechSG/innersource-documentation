@@ -70,18 +70,13 @@ and integrate the InnerSourced code into their projects, as well as
 write and contribute enhancements and modifications back to the
 InnerSource code repository.
 
- - [ ] Project provides reusable code or relevant shared
-       information (such as documentation or examples)
+ - [ ] Project provides reusable code or relevant shared information (such as documentation or examples)
  - [ ] Project is on **SHIP-HATS**
  - [ ] Project is labelled `"innersource"`
  - [ ] Project visibility is set to `"internal"`
- - [ ] Project contains a `README.md` and a `CONTRIBUTING.md`
-       (with other optional documents recommended)
- - [ ] Project licensed with GPSL
-       (or similar Agency-specific permissive license)
- - [ ] Project establishes a team structure to
-       encourage contributions (such as Maintainers
-       and Trusted Committer roles)
+ - [ ] Project contains a `README.md` and a `CONTRIBUTING.md` (with other optional documents recommended)
+ - [ ] Project licensed with GPSL (or similar Agency-specific permissive license)
+ - [ ] Project establishes a team structure to encourage contributions (such as Maintainers and Trusted Committer roles)
 
 For more details visit
 [How to Innersource a Project](how-to-innersource.md)

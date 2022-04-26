@@ -38,7 +38,6 @@ repository.
 
 Please see onboarding and setup information for SHIP-HATS
 [here](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation).
-Please see onboarding and setup information [here](Please see onboarding and setup information [here](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation).
 
 ### Configuring your Project Repository
 
