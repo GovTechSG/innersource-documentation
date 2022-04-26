@@ -1,0 +1,9 @@
+* text=auto
+
+*.tf text eol=lf
+*.json text eol=lf
+*.sh text eol=lf
+*.yml text eol=lf
+*.tfvars text eol=lf
+*.js text eol=lf
+*.txt text eol=lf
