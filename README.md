@@ -59,7 +59,7 @@ example of InnerSource in Government is the Singapore Tech Stack.
 The majority of SGTS products' source code are being innersourced, allowing
 greater collaboration, reuse and sharing across Government.
 
-Other Govtech products are following with the formalisation of
+Other GovTech products are following with the formalisation of
 Innersource practices and the adoption of SHIP-HATS.
 
 ## InnerSource Project Checklist
@@ -88,7 +88,7 @@ navigate to each of the InnerSource tagged projects.
 
 ## InnerSource Working Group
 
-Govtech has formed a Working Group around InnerSource as a place for
+GovTech has formed a Working Group around InnerSource as a place for
 members to collaborate and discuss how InnerSource works in Government.
 
 Please reach out via email or Telegram if you are interested to join the community.
