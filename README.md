@@ -54,7 +54,7 @@ the creation of high quality code behind the firewall.
 ### Examples of InnerSource in Government
 
 InnerSource examples are beginning to become more common. The foremost
-example of InnerSource in Government is the Singapore Tech Stack.
+example of InnerSource in Government is the Singapore Government Tech Stack (SGTS).
 
 The majority of SGTS products' source code are being innersourced, allowing
 greater collaboration, reuse and sharing across Government.
