@@ -1,4 +1,4 @@
-# What is Innersource?
+# What is InnerSource?
 
 InnerSource is applying open source software development practices to
 private code inside of organisations.
@@ -31,9 +31,9 @@ the creation of high quality code behind the firewall.
 > on-boarding, and identify opportunities to contribute software back to
 > the open source world.”
 
-## Why Innersource?
+## Why InnerSource?
 
-### Benefits of Innersource
+### Benefits of InnerSource
 
 * InnerSource generates faster development by allowing the use of
   ready-made or “off the shelf” components in place of developing
@@ -60,7 +60,7 @@ The majority of SGTS products' source code are being innersourced, allowing
 greater collaboration, reuse and sharing across Government.
 
 Other GovTech products are following with the formalisation of
-Innersource practices and the adoption of SHIP-HATS.
+InnerSource practices and the adoption of SHIP-HATS.
 
 ## InnerSource Project Checklist
 
@@ -78,7 +78,7 @@ InnerSource code repository.
  - [ ] Project licensed with GPSL (or similar Agency-specific permissive license)
  - [ ] Project establishes a team structure to encourage contributions (such as Maintainers and Trusted Committer roles)
 
-For more details see [How to Innersource](how-to-innersource.md).
+For more details see [How to InnerSource](how-to-innersource.md).
 
 ## How to find InnerSource Projects
 

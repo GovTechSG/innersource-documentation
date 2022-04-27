@@ -1,4 +1,4 @@
-# How to Innersource
+# How to InnerSource
 
 Many teams at GovTech have applied the InnerSource collaboration model
 to share and deliver more effectively. While the core premise of
@@ -15,9 +15,9 @@ are a few aspects to consider:
   * Modular components with customizable parameters to allow for
     adaptation and integration into other project software code?
   * Documentation on how to use the software module, how to modify the
-    code and how to contribute enhancements back to the Innersource code
+    code and how to contribute enhancements back to the InnerSource code
     repository?
-* Does the entire project need to be Innersourced or are smaller
+* Does the entire project need to be InnerSourced or are smaller
   components more useful?
 * Do parts of the project contain classified code that may not be
   appropriate to be shared or reused?
@@ -31,7 +31,7 @@ host their code repositories, track issues and collaboratively share
 project documentation.
 
 Developers using the SHIP-HATS code repository platform will be able to
-find properly tagged Innersource code repositories, clone and integrate
+find properly tagged InnerSource code repositories, clone and integrate
 the InnerSourced code into their projects, as well as write and
 contribute enhancements and modifications back to the InnerSource code
 repository.
@@ -96,7 +96,7 @@ questions on their own.
   initial chat? An empty pull request with a detailed proposal?
 
 Examples of these and other useful standard documents can be found in
-the Innersource template repository in SHIP-HATS.
+the InnerSource template repository in SHIP-HATS.
 
 ### Licensing
 
@@ -189,7 +189,7 @@ The easiest approach is to check the `CONTRIBUTING.md` and ask the team if
 there is anything unclear. We recommend reaching out to their project
 team via chat or a raising an Issue (with a 'question' label).
 
-### What about contracted developers who work on Innersource? <!-- {docsify-ignore} -->
+### What about contracted developers who work on InnerSource? <!-- {docsify-ignore} -->
 
 Contractor developers or augmented staff are often not motivated (or
 actively disencentivised) to not engage in InnerSource activities. Once
@@ -213,5 +213,5 @@ For more ideas and examples, see the [30 Day Warranty](https://patterns.innersou
 
 ### What if I need help Innersourcing my project? <!-- {docsify-ignore} -->
 
-Get in touch with the Innersource Working Group.
+Get in touch with the InnerSource Working Group.
 and we'll be happy to help.
