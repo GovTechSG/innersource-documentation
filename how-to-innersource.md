@@ -1,6 +1,6 @@
 # How to InnerSource
 
-Many teams at Govtech have applied the InnerSource collaboration model
+Many teams at GovTech have applied the InnerSource collaboration model
 to share and deliver more effectively. While the core premise of
 Innersourcing is opening up code for collaboration, there are few
 considerations to make sure your project is a success.
