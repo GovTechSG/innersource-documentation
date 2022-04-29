@@ -106,11 +106,11 @@ each other, they need an agreement about the terms.
 An *InnerSource License* provides a reusable legal framework for the
 sharing of source code within the organisation. This opens up new
 collaboration options, and makes the rights and obligations of the
-involved legal entities explicit. Govtech has developed a permissive
+involved legal entities explicit. GovTech has developed a permissive
 license for sharing code with other agencies (and their vendors) across
 the organisation.
 
-The Govtech Public Sector License (GPSL) can be found in the
+The GovTech Public Sector License (GPSL) can be found in the
 SHIP-HATS template repository.
 
 ### Encouraging External Contributors
