@@ -192,7 +192,7 @@ team via chat or a raising an Issue (with a 'question' label).
 ### What about contracted developers who work on InnerSource? <!-- {docsify-ignore} -->
 
 Contractor developers or augmented staff are often not motivated (or
-actively disencentivised) to not engage in InnerSource activities. Once
+actively disincentivised) to not engage in InnerSource activities. Once
 delivered, and even if the code is made visible, their projects are
 often less likely to be part of successful InnerSourced engagements. At
 the outset of the project, clearly define that the code will be made
