@@ -24,20 +24,20 @@ are a few aspects to consider:
 
 ## Preparing your Project for InnerSource
 
-### Onboard to SHIP-HATS
+### Onboard to SHIP-HATS 2.0
 
-SHIP-HATS is the primary platform for Whole of Government developers to
+SHIP-HATS 2.0 is the primary platform for Whole of Government developers to
 host their code repositories, track issues and collaboratively share
 project documentation.
 
-Developers using the SHIP-HATS code repository platform will be able to
+Developers using the SHIP-HATS Gitlab platform will be able to
 find properly tagged InnerSource code repositories, clone and integrate
 the InnerSourced code into their projects, as well as write and
 contribute enhancements and modifications back to the InnerSource code
 repository.
 
-Please see onboarding and setup information for SHIP-HATS
-[here](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation).
+Please see onboarding and setup information for SHIP-HATS 2.0
+[here](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/).
 
 ### Configuring your Project Repository
 
@@ -47,18 +47,18 @@ first reviewed for any potentially sensitive project data (including
 secrets).
 
 The project repo configuration should be verified to ensure that
-protected branches are configured for the trunk branch (typically named
+[protected branches](https://docs.gitlab.com/ee/user/project/protected_branches.html) are configured for the trunk branch (typically named
 `main` or `master`).
 
 **Merge Requests** are the primary means for contributors to submit
-code. The feature should be enabled for the repo and a baseline
-configuration established for project team members to review/approve
-contributions (for example `CODEOWNERS`).
+code. The [feature](https://docs.gitlab.com/ee/user/project/merge_requests/) should be enabled for the repo and a baseline
+configuration established for project team members to [review/approve](https://docs.gitlab.com/ee/user/project/merge_requests/reviews/)
+contributions (for example [CODEOWNERS](https://docs.gitlab.com/ee/user/project/code_owners.html)).
 
 Once cleaned up and configured, the project repo should be opened up by
-setting visibility `'internal'`.
+setting [visibility](https://docs.gitlab.com/ee/user/public_access.html#internal-projects-and-groups) `'internal'`.
 
-Tagging the repo with the `'innersource'` label and any other relevant
+[Tagging](https://docs.gitlab.com/ee/user/project/settings/#assign-topics-to-a-project) the project with the `'innersource'` topic and any other relevant
 keywords that will aid discovery.
 
 ### Issue Tracking
@@ -68,20 +68,20 @@ understand work in progress and any areas they might be able to get
 involved.
 
 Although not required, it is recommended to use an Issue tracker that is
-easily accessible for the potential contributors. The built-in issue
-tracker in the project repo is usually the easiest option for most
+easily accessible for the potential contributors. The built-in [issue
+tracker](https://docs.gitlab.com/ee/user/project/issues/) in the Gitlab project repo is usually the easiest option for most
 projects. If another issue tracker (such as JIRA) is used, ensure that
 it is discoverable (eg. linked from from standard documentation) and
 openly accessible by new contributors without permission.
 
-To assist new contributors, issue tracking labels are a useful tool to
-understand areas to assist or for smaller changes that could be useful
-for learning. Standard labels names include `"help wanted"`, `"good
+To assist new contributors, issue tracking [labels](https://docs.gitlab.com/ee/user/project/labels.html) are a useful method to
+understand areas to assist or to encourage smaller changes that could be beneficial
+for learning. [Standard labels](https://www.kubernetes.dev/docs/guide/help-wanted/) names include `"help wanted"`, `"good
 first issue"`.
 
 ### Standard Documentation
 
-Potential contributors often are lost when exploring a Innersource
+Potential contributors often are lost when exploring an Innersource
 project for the first time. These contributors may have a hard time
 figuring out who maintains the project, what to work on, and how to
 contribute. Providing documentation in standard files like `README.md`
@@ -96,7 +96,7 @@ questions on their own.
   initial chat? An empty pull request with a detailed proposal?
 
 Examples of these and other useful standard documents can be found in
-the InnerSource template repository in SHIP-HATS.
+the [InnerSource template repository](https://sgts.gitlab-dedicated.com/innersource/templates/innersource-base-template) in SHIP-HATS 2.0.
 
 ### Licensing
 
@@ -110,7 +110,7 @@ involved legal entities explicit. GovTech has developed a permissive
 license for sharing code with other agencies (and their vendors) across
 the organisation.
 
-The GovTech Public Sector License (GPSL) can be found in the
+The [GovTech Public Sector License](https://sgts.gitlab-dedicated.com/innersource/templates/gpsl) (GPSL) can be found in the
 SHIP-HATS template repository.
 
 ### Encouraging External Contributors
@@ -208,10 +208,9 @@ Warranty that the contributing team consents to provide bug fixes to the
 receiving team, which will increase the level of trust between both
 teams and makes it more likely that contributions get accepted.
 
-
 For more ideas and examples, see the [30 Day Warranty](https://patterns.innersourcecommons.org/p/30-day-warranty) pattern.
 
 ### What if I need help Innersourcing my project? <!-- {docsify-ignore} -->
 
-Get in touch with the InnerSource Working Group.
+Get in touch with the InnerSource Working Group
 and we'll be happy to help.
