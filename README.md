@@ -64,15 +64,15 @@ InnerSource practices and the adoption of SHIP-HATS.
 
 ## InnerSource Project Checklist
 
-These items help developers using the SHIP-HATS code
+These items help developers using the SHIP-HATS 2.0 code
 repository platform to find code repositories for their project, clone
 and integrate the InnerSourced code into their projects, as well as
 write and contribute enhancements and modifications back to the
 InnerSource code repository.
 
  - [ ] Project provides reusable code or relevant shared information (such as documentation or examples)
- - [ ] Project is on **SHIP-HATS**
- - [ ] Project is labelled `"innersource"`
+ - [ ] Project is on **SHIP-HATS 2.0**
+ - [ ] Project is assigned the `"innersource"` topic
  - [ ] Project visibility is set to `"internal"`
  - [ ] Project contains a `README.md` and a `CONTRIBUTING.md` (with other optional documents recommended)
  - [ ] Project licensed with GPSL (or similar Agency-specific permissive license)
@@ -83,7 +83,7 @@ For more details see [How to InnerSource](how-to-innersource.md).
 ## How to find InnerSource Projects
 
 To find out what InnerSource projects are available, check out the
-`InnerSource` label in SHIP-HATS where you can browse, search, and
+`InnerSource` [topic](https://sgts.gitlab-dedicated.com/explore/projects/topics/innersource) in SHIP-HATS where you can browse, search, and
 navigate to each of the InnerSource tagged projects.
 
 ## InnerSource Working Group
