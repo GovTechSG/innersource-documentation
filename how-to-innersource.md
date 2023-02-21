@@ -22,6 +22,8 @@ are a few aspects to consider:
 * Do parts of the project contain classified code that may not be
   appropriate to be shared or reused?
 
+?> Innersourcing a project does not require central team approval. The decision can be made by a project owner when hosted under a project's group.
+
 ## Preparing your Project for InnerSource
 
 ### Onboard to SHIP-HATS 2.0
